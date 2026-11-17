@@ -1,0 +1,13 @@
+{
+  "name": "Identity Mirror",
+  "short_name": "Mirror",
+  "description": "Log small actions as evidence for the person you're becoming.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F5F2",
+  "theme_color": "#2F5D8C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
